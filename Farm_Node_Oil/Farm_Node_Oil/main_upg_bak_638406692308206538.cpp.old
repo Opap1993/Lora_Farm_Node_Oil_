@@ -1,0 +1,21 @@
+/*
+ * Farm_Node_Oil.cpp
+ *
+ * Created: 1/12/2024 3:13:36 PM
+ * Author : John
+ */ 
+
+
+#include "sam.h"
+
+
+int main(void)
+{
+    /* Initialize the SAM system */
+    SystemInit();
+
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
